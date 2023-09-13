@@ -1,1 +1,1 @@
-# Arithmetic-logic-unit-ALU-
+# 32 bit Arithmetic-logic-unit-ALU-
